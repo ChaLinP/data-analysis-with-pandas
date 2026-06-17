@@ -1,0 +1,7 @@
+,Salary,Salary,Salary,Employee ID
+,mean,max,min,count
+Department,,,,
+Finance,147500.0,150000.0,145000.0,2
+HR,87500.0,90000.0,85000.0,2
+IT,124062.5,135000.0,116250.0,4
+Marketing,98125.0,116250.0,80000.0,2

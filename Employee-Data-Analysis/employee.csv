@@ -1,0 +1,11 @@
+Employee ID,Name,Department,Salary,Age,Experience
+1,John,IT,120000,28,4
+2,Sarah,HR,85000,32,7
+3,Mike,IT,,29,5
+4,Emma,Finance,150000,41,15
+5,David,HR,90000,,6
+6,Lisa,IT,135000,35,
+7,Tom,Finance,145000,38,12
+8,Anna,Marketing,80000,27,3
+9,Chris,Marketing,,30,5
+10,Sophia,IT,125000,31,8
