@@ -1,0 +1,13 @@
+Date,Region,Salesperson,Product,Category,Units Sold,Revenue
+2026-01-01,West,John,Laptop,Electronics,2,500000
+2026-01-01,East,Sarah,Mouse,Accessories,10,30000
+2026-01-02,West,John,Keyboard,Accessories,5,40000
+2026-01-02,North,Mike,Laptop,Electronics,1,250000
+2026-01-03,South,Emma,Monitor,Electronics,2,100000
+2026-01-03,East,Sarah,Headphones,Accessories,3,36000
+2026-01-04,West,John,Monitor,Electronics,1,50000
+2026-01-04,North,Mike,Mouse,Accessories,8,24000
+2026-01-05,South,Emma,Laptop,Electronics,1,250000
+2026-01-05,East,Sarah,Keyboard,Accessories,4,32000
+2026-01-06,West,John,Headphones,Accessories,2,24000
+2026-01-06,North,Mike,Monitor,Electronics,1,50000
